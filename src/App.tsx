@@ -57,12 +57,13 @@ export default function App() {
       
       ESTRUCTURA REQUERIDA:
       1. Título del Proyecto
-      2. Justificación Pedagógica
-      3. Metodología Sugerida
-      4. Secuencia Didáctica (Inicio, Desarrollo, Cierre)
-      5. Evaluación Formativa
-      6. Recursos Necesarios
-      7. Ajustes Razonables
+      2. Evaluación Diagnóstica (Actividad breve para saberes previos)
+      3. Justificación Pedagógica
+      4. Metodología Sugerida
+      5. Secuencia Didáctica (Inicio, Desarrollo, Cierre)
+      6. Evaluación Formativa
+      7. Recursos Necesarios
+      8. Ajustes Razonables
       
       INSTRUCCIONES IMPORTANTES:
       - NO incluyas saludos ni introducciones conversacionales.
